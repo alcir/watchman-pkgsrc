@@ -7,7 +7,7 @@ MASTER_SITES=	https://github.com/facebook/watchman
 
 PKGNAME= watchman-2.9.1nb2
 MAINTAINER=	alciregi@gmail.com
-HOMEPAGE=	http://10.96.11.105/
+HOMEPAGE=	https://github.com/facebook/watchman
 COMMENT=	Watches files and takes action when they change
 LICENSE=  apache-2.0
 
