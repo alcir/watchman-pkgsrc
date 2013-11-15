@@ -1,0 +1,7 @@
+@comment $NetBSD$
+bin/watchman
+share/doc/watchman-${PKGVERSION}/README.markdown
+share/examples/${PKGNAME}/root.state
+share/examples/${PKGNAME}/triggersample.sh
+share/examples/${PKGNAME}/watchman.json
+share/smf/watchman/manifest.xml

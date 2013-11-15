@@ -1,0 +1,14 @@
+===========================================================================
+$NetBSD: MESSAGE,v 1.2 2013/11/11 13:01:23 alcir Exp $
+
+After starting the SMF service, you can configure watchman according
+to the commands listed in the README.markdown file (or the web page
+http://github.com/facebook/watchman)
+
+OR
+
+before starting the SMF service you can copy the sample file
+${SAMPLEDIR}/root.state
+in the ${VARBASE}/spool/watchman directory
+
+===========================================================================
