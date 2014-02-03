@@ -2,7 +2,6 @@
 
 DISTNAME=	watchman-2.9.1
 CATEGORIES=	local
-#MASTER_SITES=	http://10.96.11.105/
 MASTER_SITES=	https://github.com/facebook/watchman
 
 PKGNAME= watchman-2.9.1nb2
