@@ -25,7 +25,6 @@ CONFIGURE_ARGS+= --enable-statedir=${VARBASE}/spool/watchman
 
 OWN_DIRS+=    ${VARBASE}/spool/watchman
 SAMPLEDIR=  ${PREFIX}/share/examples/${PKGNAME}
-#DOCDIR=     ${PREFIX}/share/doc/watchman
 
 SMF_MANIFEST_SRC= ${FILESDIR}/manifest.xml
 
