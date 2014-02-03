@@ -1,4 +1,6 @@
 # $NetBSD$
+#
+#
 
 DISTNAME=	watchman-2.9.1
 CATEGORIES=	local
